@@ -22,7 +22,7 @@
   (pad 3 thru_hole circle (at 7.112 -2.54) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 22 thru_hole circle (at 7.112 -17.78) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 23 thru_hole circle (at 4.572 -17.78) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model E:/Dropbox/Dokumente/Lukas/Arbeit/EigeneProjekte/KiCad/Librarys/Footprint.pretty/TEN6.wrl
+  (model C:/Users/lukas/git/MyKicadLibrary/Footprint.pretty/TEN6.wrl
     (at (xyz 0 0.8 0.4))
     (scale (xyz 0.39 -0.39 -0.39))
     (rotate (xyz 0 0 0))
