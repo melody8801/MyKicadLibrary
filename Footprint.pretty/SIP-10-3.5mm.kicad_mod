@@ -19,7 +19,7 @@
   (pad 8 thru_hole circle (at 8.75 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 12.25 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 15.75 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model "E:/Dropbox/Dokumente/Lukas/Arbeit/Eigene Projekte/KiCad/Librarys/Footprint.pretty/SIP-10-3.5mm.wrl"
+  (model C:/Users/lukas/git/MyKicadLibrary/Footprint.pretty/SIP-10-3.5mm.wrl
     (at (xyz 0 0.2 0))
     (scale (xyz 6.8 -4.7 6.8))
     (rotate (xyz 0 0 0))
