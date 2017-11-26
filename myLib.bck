@@ -4,6 +4,11 @@ $CMP M12-5
 F https://www.mouser.ch/ProductDetail/Phoenix-Contact/1694237/?qs=sGAEpiMZZMv8kklI404QlSC7NXrW0bMV
 $ENDCMP
 #
+$CMP MAX14824GTG+
+D IO-Link Master
+F https://datasheets.maximintegrated.com/en/ds/MAX14824.pdf
+$ENDCMP
+#
 $CMP max14827
 F https://datasheets.maximintegrated.com/en/ds/MAX14827A.pdf
 $ENDCMP
