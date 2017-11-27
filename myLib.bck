@@ -9,6 +9,12 @@ D IO-Link Master
 F https://datasheets.maximintegrated.com/en/ds/MAX14824.pdf
 $ENDCMP
 #
+$CMP SDC36C
+D TVS Diode Array, 33V Standoff, 2 Channels, SOT-23 package
+K esd protection suppression transient
+F https://media.digikey.com/pdf/Data%20Sheets/Semtech%20PDFs/SDC36C.PDF
+$ENDCMP
+#
 $CMP max14827
 F https://datasheets.maximintegrated.com/en/ds/MAX14827A.pdf
 $ENDCMP
