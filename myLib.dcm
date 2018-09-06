@@ -9,6 +9,25 @@ K Battery Management IC
 F http://www.ti.com/lit/ds/symlink/bq24259.pdf
 $ENDCMP
 #
+$CMP EMI_Filter_Common_WE
+D EMI 2-inductor-filter
+K EMI filter
+F https://www.digikey.ch/de/ptm/w/wurth-electronics-inc/suppression-of-common-mode-noise?pn_sku=732-1496-1-ND&part_id=1639508
+$ENDCMP
+#
+$CMP LTC4267
+K PoE
+F http://www.analog.com/media/en/technical-documentation/data-sheets/4267fc.pdf
+$ENDCMP
+#
+$CMP LTR-329ALS
+F http://optoelectronics.liteon.com/upload/download/DS86-2014-0006/LTR-329ALS-01_DS_V1.pdf
+$ENDCMP
+#
+$CMP M12-4_D
+F https://www.mouser.ch/ProductDetail/Phoenix-Contact/1694237/?qs=sGAEpiMZZMv8kklI404QlSC7NXrW0bMV
+$ENDCMP
+#
 $CMP M12-5
 F https://www.mouser.ch/ProductDetail/Phoenix-Contact/1694237/?qs=sGAEpiMZZMv8kklI404QlSC7NXrW0bMV
 $ENDCMP
@@ -22,6 +41,16 @@ $CMP SDC36C
 D TVS Diode Array, 33V Standoff, 2 Channels, SOT-23 package
 K esd protection suppression transient
 F https://media.digikey.com/pdf/Data%20Sheets/Semtech%20PDFs/SDC36C.PDF
+$ENDCMP
+#
+$CMP TLV431BCDBZR
+D Shunt Regulator, SOT-23
+K diode device shunt regulator
+F http://www.ti.com/lit/ds/symlink/tlv431a.pdf
+$ENDCMP
+#
+$CMP WE-TVS_824015
+F https://katalog.we-online.de/pbs/datasheet/824015.pdf
 $ENDCMP
 #
 $CMP max14827
