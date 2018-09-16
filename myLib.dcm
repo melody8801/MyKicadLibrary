@@ -15,6 +15,14 @@ K EMI filter
 F https://www.digikey.ch/de/ptm/w/wurth-electronics-inc/suppression-of-common-mode-noise?pn_sku=732-1496-1-ND&part_id=1639508
 $ENDCMP
 #
+$CMP LAN9500
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001875C.pdf
+$ENDCMP
+#
+$CMP LP38693MP-3.3
+F http://www.ti.com/lit/ds/symlink/lp38693-q1.pdf
+$ENDCMP
+#
 $CMP LTC4267
 K PoE
 F http://www.analog.com/media/en/technical-documentation/data-sheets/4267fc.pdf
@@ -35,6 +43,14 @@ $ENDCMP
 $CMP MAX14824GTG+
 D IO-Link Master
 F https://datasheets.maximintegrated.com/en/ds/MAX14824.pdf
+$ENDCMP
+#
+$CMP MAX3237EIDBR
+F http://www.ti.com/lit/ds/symlink/max3237e.pdf
+$ENDCMP
+#
+$CMP MAX3243E
+F http://www.ti.com/lit/ds/symlink/max3243e.pdf
 $ENDCMP
 #
 $CMP SDC36C
