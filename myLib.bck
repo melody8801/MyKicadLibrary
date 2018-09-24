@@ -50,7 +50,7 @@ F http://www.ti.com/lit/ds/symlink/max3237e.pdf
 $ENDCMP
 #
 $CMP MAX3243E
-F http://www.ti.com/lit/ds/symlink/max3237e.pdf
+F http://www.ti.com/lit/ds/symlink/max3243e.pdf
 $ENDCMP
 #
 $CMP SDC36C

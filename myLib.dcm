@@ -53,6 +53,10 @@ $CMP MAX3243E
 F http://www.ti.com/lit/ds/symlink/max3243e.pdf
 $ENDCMP
 #
+$CMP PocketBeagle
+F https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual
+$ENDCMP
+#
 $CMP SDC36C
 D TVS Diode Array, 33V Standoff, 2 Channels, SOT-23 package
 K esd protection suppression transient
