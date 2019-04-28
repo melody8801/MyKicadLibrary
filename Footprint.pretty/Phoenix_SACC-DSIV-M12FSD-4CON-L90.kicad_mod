@@ -1,4 +1,4 @@
-(module Phoenix_SACC-DSIV-M12FSD-4CON-L90 (layer F.Cu) (tedit 5BB50FD5)
+(module Phoenix_SACC-DSIV-M12FSD-4CON-L90 (layer F.Cu) (tedit 5C99F904)
   (fp_text reference J200 (at -7.62 -4.572) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
@@ -9,7 +9,7 @@
   (fp_line (start 10.668 9.144) (end -11.176 9.144) (layer F.SilkS) (width 0.15))
   (fp_line (start -11.176 9.144) (end -11.176 -3.556) (layer F.SilkS) (width 0.15))
   (fp_circle (center 0 0) (end 0 3.6) (layer F.SilkS) (width 0.15))
-  (fp_text user "SACC-DSIV-M12FSD-4CON-L90 - 1534630" (at 0.635 12.065) (layer Dwgs.User) hide
+  (fp_text user "SACC-DSIV-M12FSD-4CON-L90 - 1534630" (at 0.635 12.065) (layer Eco1.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 10.668 -3.556) (end 5.08 -3.556) (layer F.SilkS) (width 0.15))
@@ -30,7 +30,7 @@
   (pad "" np_thru_hole circle (at -7.5 0) (size 2.45 2.45) (drill 2.45) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 7.5 4) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -7.5 4) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 0 4) (size 1.3 1.3) (drill 1.3) (layers *.Cu *.Mask))
+  (pad 5 thru_hole circle (at 0 4) (size 2 2) (drill 1.3) (layers *.Cu *.Mask))
   (model ${GIT_LUKAS}/Footprint.pretty/Phoenix_SACC-DSIV-M12FSD-4CON-L90.step
     (offset (xyz 0 -3.9 0))
     (scale (xyz 1 1 1))
